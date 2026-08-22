@@ -127,7 +127,7 @@ Mission     : Bridging industrial operations, data analytics, and modern web eng
 <!-- Animated Rainbow Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4300-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="38" style="vertical-align: middle;"> &nbsp;Flagship Projects &amp; Case Studies</h2>
+<h2><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="56" style="vertical-align: middle; margin-right: 4px;"> &nbsp;Flagship Projects &amp; Case Studies</h2>
 
 <div align="center">
 
