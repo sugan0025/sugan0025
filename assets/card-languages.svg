@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="200" viewBox="0 0 440 200">
+  <defs>
+    <linearGradient id="borderLangs" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#3178C6;stop-opacity:0.9"/>
+      <stop offset="50%" style="stop-color:#E28743;stop-opacity:0.6"/>
+      <stop offset="100%" style="stop-color:#F2C811;stop-opacity:0.5"/>
+    </linearGradient>
+    <filter id="shadowLangs">
+      <feDropShadow dx="0" dy="4" stdDeviation="8" flood-color="#3178C6" flood-opacity="0.3"/>
+    </filter>
+  </defs>
+  <!-- Card Base -->
+  <rect x="2" y="2" width="436" height="196" rx="16" ry="16" fill="none" stroke="url(#borderLangs)" stroke-width="2" filter="url(#shadowLangs)"/>
+  <rect x="4" y="4" width="432" height="192" rx="14" ry="14" fill="#0d1117" fill-opacity="0.88"/>
+  <rect x="4" y="4" width="432" height="192" rx="14" ry="14" fill="#1a1b27" fill-opacity="0.45"/>
+  
+  <!-- Header -->
+  <rect x="20" y="18" width="4" height="26" rx="2" fill="#3178C6"/>
+  <text x="32" y="34" font-family="'Segoe UI',Roboto,Arial,sans-serif" font-size="16" font-weight="700" fill="#ffffff">🛠️ Code &amp; Technology Distribution</text>
+  <text x="32" y="50" font-family="'Segoe UI',Roboto,Arial,sans-serif" font-size="11" fill="#8b949e">PRIMARY DEVELOPMENT &amp; ANALYTICS STACKS</text>
+  
+  <line x1="20" y1="60" x2="420" y2="60" stroke="#30363d" stroke-width="1"/>
+  
+  <!-- Multi-Color Segmented Progress Bar -->
+  <g transform="translate(20, 72)">
+    <rect x="0" y="0" width="400" height="12" rx="6" fill="#21262d"/>
+    <!-- TypeScript (40%) -->
+    <rect x="0" y="0" width="164" height="12" rx="6" fill="#3178c6"/>
+    <!-- CSS (32%) -->
+    <rect x="160" y="0" width="130" height="12" fill="#563d7c"/>
+    <!-- JavaScript (20%) -->
+    <rect x="286" y="0" width="80" height="12" fill="#f1e05a"/>
+    <!-- Python & Analytics (8%) -->
+    <rect x="362" y="0" width="38" height="12" rx="6" fill="#3572A5"/>
+  </g>
+  
+  <!-- Legend Rows -->
+  <!-- Row 1: TS & CSS -->
+  <g transform="translate(24, 108)">
+    <circle cx="6" cy="6" r="5" fill="#3178c6"/>
+    <text x="18" y="10" font-family="'Segoe UI',Roboto,Arial,sans-serif" font-size="12" font-weight="600" fill="#c9d1d9">TypeScript</text>
+    <text x="130" y="10" font-family="'Segoe UI',Roboto,Arial,sans-serif" font-size="12" fill="#8b949e">41.0%</text>
+
+    <circle cx="216" cy="6" r="5" fill="#563d7c"/>
+    <text x="228" y="10" font-family="'Segoe UI',Roboto,Arial,sans-serif" font-size="12" font-weight="600" fill="#c9d1d9">CSS / Styling</text>
+    <text x="340" y="10" font-family="'Segoe UI',Roboto,Arial,sans-serif" font-size="12" fill="#8b949e">32.0%</text>
+  </g>
+
+  <!-- Row 2: JS & Python/DAX -->
+  <g transform="translate(24, 138)">
+    <circle cx="6" cy="6" r="5" fill="#f1e05a"/>
+    <text x="18" y="10" font-family="'Segoe UI',Roboto,Arial,sans-serif" font-size="12" font-weight="600" fill="#c9d1d9">JavaScript</text>
+    <text x="130" y="10" font-family="'Segoe UI',Roboto,Arial,sans-serif" font-size="12" fill="#8b949e">20.0%</text>
+
+    <circle cx="216" cy="6" r="5" fill="#3572A5"/>
+    <text x="228" y="10" font-family="'Segoe UI',Roboto,Arial,sans-serif" font-size="12" font-weight="600" fill="#c9d1d9">Python &amp; DAX</text>
+    <text x="340" y="10" font-family="'Segoe UI',Roboto,Arial,sans-serif" font-size="12" fill="#8b949e">7.0%</text>
+  </g>
+
+  <!-- Bottom note -->
+  <line x1="20" y1="164" x2="420" y2="164" stroke="#30363d" stroke-width="1"/>
+  <text x="24" y="182" font-family="'Segoe UI',Roboto,Arial,sans-serif" font-size="10" fill="#8b949e">Stack: Next.js 16 • Supabase • Power BI • GA4 • Python openpyxl</text>
+</svg>

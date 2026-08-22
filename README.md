@@ -150,13 +150,13 @@ Mission     : Bridging industrial operations, data analytics, and modern web eng
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4300-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ╔═══════════════════════════════╗ -->
-<!-- ║     GITHUB TROPHIES           ║ -->
+<!-- ║     HONORS & ACHIEVEMENTS     ║ -->
 <!-- ╚═══════════════════════════════╝ -->
 
-<h2><img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="28"> &nbsp;GitHub Trophies</h2>
+<h2><img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="28"> &nbsp;Key Milestones &amp; Honors</h2>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sugan0025&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=10&margin-h=10" alt="GitHub Trophies" width="80%" />
+  <img src="./assets/card-trophies.svg" width="95%" alt="Key Milestones &amp; Honors" />
 </div>
 
 <!-- Animated Rainbow Divider -->
@@ -166,25 +166,14 @@ Mission     : Bridging industrial operations, data analytics, and modern web eng
 <!-- ║   GITHUB STATS & ANALYTICS    ║ -->
 <!-- ╚═══════════════════════════════╝ -->
 
-<h2><img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ris/giphy.gif" width="28"> &nbsp;GitHub Analytics & Activity</h2>
+<h2><img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ris/giphy.gif" width="28"> &nbsp;GitHub Analytics &amp; Technology Distribution</h2>
 
 <div align="center">
 
-<!-- Stats & Streak Side by Side -->
-<a href="https://github.com/sugan0025">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sugan0025&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&border_radius=10&card_width=400" alt="GitHub Stats" />
-</a>
+<!-- Row: Activity Stats + Code Distribution Glass Cards -->
+<img src="./assets/card-stats.svg" width="46%" alt="GitHub Activity &amp; Overview" />
 &nbsp;&nbsp;
-<a href="https://github.com/sugan0025">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sugan0025&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
-</a>
-
-<br><br>
-
-<!-- Top Languages -->
-<a href="https://github.com/sugan0025">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sugan0025&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8&card_width=400" alt="Top Languages" />
-</a>
+<img src="./assets/card-languages.svg" width="46%" alt="Code &amp; Technology Distribution" />
 
 <br><br>
 
@@ -200,17 +189,18 @@ Mission     : Bridging industrial operations, data analytics, and modern web eng
 <!-- ║    SNAKE CONTRIBUTION GRAPH   ║ -->
 <!-- ╚═══════════════════════════════╝ -->
 
-<h2><img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="28"> &nbsp;Watch My Contributions Get Eaten</h2>
+<h2><img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="28"> &nbsp;Contribution Snake Arena</h2>
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sugan0025/sugan0025/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sugan0025/sugan0025/output/github-snake.svg" />
-  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/sugan0025/sugan0025/output/github-snake.svg" width="100%" />
+  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/sugan0025/sugan0025/output/github-snake-dark.svg" width="100%" />
 </picture>
 
 </div>
+
 
 <br>
 

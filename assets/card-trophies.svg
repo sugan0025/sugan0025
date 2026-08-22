@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="150" viewBox="0 0 900 150">
+  <defs>
+    <linearGradient id="borderTrophy" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#FFD700;stop-opacity:0.9"/>
+      <stop offset="50%" style="stop-color:#E28743;stop-opacity:0.7"/>
+      <stop offset="100%" style="stop-color:#58a6ff;stop-opacity:0.6"/>
+    </linearGradient>
+    <filter id="shadowTrophy">
+      <feDropShadow dx="0" dy="4" stdDeviation="8" flood-color="#FFD700" flood-opacity="0.25"/>
+    </filter>
+  </defs>
+  <!-- Base Plate -->
+  <rect x="2" y="2" width="896" height="146" rx="16" ry="16" fill="none" stroke="url(#borderTrophy)" stroke-width="2" filter="url(#shadowTrophy)"/>
+  <rect x="4" y="4" width="892" height="142" rx="14" ry="14" fill="#0d1117" fill-opacity="0.9"/>
+  <rect x="4" y="4" width="892" height="142" rx="14" ry="14" fill="#1a1b27" fill-opacity="0.4"/>
+
+  <!-- 4 Badges in Columns -->
+  <!-- Column 1: Placement Leadership -->
+  <g transform="translate(20, 20)">
+    <rect x="0" y="0" width="200" height="110" rx="10" fill="#161b22" stroke="#FFD700" stroke-opacity="0.4" stroke-width="1"/>
+    <text x="100" y="38" font-size="28" text-anchor="middle">🎓</text>
+    <text x="100" y="66" font-family="'Segoe UI',Roboto,sans-serif" font-size="13" font-weight="700" fill="#FFD700" text-anchor="middle">Placement Lead</text>
+    <text x="100" y="84" font-family="'Segoe UI',Roboto,sans-serif" font-size="10" fill="#c9d1d9" text-anchor="middle">MBA Batch 2025–2027</text>
+    <text x="100" y="98" font-family="'Segoe UI',Roboto,sans-serif" font-size="9" fill="#8b949e" text-anchor="middle">BIT Sathy SMS</text>
+  </g>
+
+  <!-- Column 2: Full-Stack D2C -->
+  <g transform="translate(235, 20)">
+    <rect x="0" y="0" width="200" height="110" rx="10" fill="#161b22" stroke="#E28743" stroke-opacity="0.4" stroke-width="1"/>
+    <text x="100" y="38" font-size="28" text-anchor="middle">🥐</text>
+    <text x="100" y="66" font-family="'Segoe UI',Roboto,sans-serif" font-size="13" font-weight="700" fill="#E28743" text-anchor="middle">D2C Platform Architect</text>
+    <text x="100" y="84" font-family="'Segoe UI',Roboto,sans-serif" font-size="10" fill="#c9d1d9" text-anchor="middle">The Rolling Oven</text>
+    <text x="100" y="98" font-family="'Segoe UI',Roboto,sans-serif" font-size="9" fill="#8b949e" text-anchor="middle">Next.js 16 • GA4 Telemetry</text>
+  </g>
+
+  <!-- Column 3: Industrial QA & Ops -->
+  <g transform="translate(450, 20)">
+    <rect x="0" y="0" width="200" height="110" rx="10" fill="#161b22" stroke="#FF5722" stroke-opacity="0.4" stroke-width="1"/>
+    <text x="100" y="38" font-size="28" text-anchor="middle">🏭</text>
+    <text x="100" y="66" font-family="'Segoe UI',Roboto,sans-serif" font-size="13" font-weight="700" fill="#FF5722" text-anchor="middle">Process Engineer</text>
+    <text x="100" y="84" font-family="'Segoe UI',Roboto,sans-serif" font-size="10" fill="#c9d1d9" text-anchor="middle">Roots Industries RALP</text>
+    <text x="100" y="98" font-family="'Segoe UI',Roboto,sans-serif" font-size="9" fill="#8b949e" text-anchor="middle">Python openpyxl • QA</text>
+  </g>
+
+  <!-- Column 4: BI & Analytics -->
+  <g transform="translate(665, 20)">
+    <rect x="0" y="0" width="200" height="110" rx="10" fill="#161b22" stroke="#58a6ff" stroke-opacity="0.4" stroke-width="1"/>
+    <text x="100" y="38" font-size="28" text-anchor="middle">📊</text>
+    <text x="100" y="66" font-family="'Segoe UI',Roboto,sans-serif" font-size="13" font-weight="700" fill="#58a6ff" text-anchor="middle">Analytics &amp; BI</text>
+    <text x="100" y="84" font-family="'Segoe UI',Roboto,sans-serif" font-size="10" fill="#c9d1d9" text-anchor="middle">Power BI • DAX Engine</text>
+    <text x="100" y="98" font-family="'Segoe UI',Roboto,sans-serif" font-size="9" fill="#8b949e" text-anchor="middle">Cohort &amp; Sales Velocity</text>
+  </g>
+</svg>
