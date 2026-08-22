@@ -67,8 +67,6 @@ Mission     : Bridging industrial operations, data analytics, and modern web eng
 
 - 📊 **BI Dashboard Engineer** — Designed multi-page Power BI retail sales dashboards with DAX measures for cohort retention and revenue analytics.
 
-- 🎨 **Creative Frontend** — Developed **AnimeFlux** with cinematic WebGL wave transitions and glassmorphic dark-mode interfaces.
-
 <br clear="right"/>
 
 <!-- Animated Rainbow Divider -->
@@ -122,15 +120,11 @@ Mission     : Bridging industrial operations, data analytics, and modern web eng
 <!-- Animated Rainbow Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4300-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ╔═══════════════════════════════╗ -->
-<!-- ║      PROJECTS SECTION         ║ -->
-<!-- ╚═══════════════════════════════╝ -->
-
 <h2><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> &nbsp;Flagship Projects & Case Studies</h2>
 
 <div align="center">
 
-<!-- Project Card 1 -->
+<!-- Pinned Repo Card -->
 <a href="https://the-rolling-oven.vercel.app">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=sugan0025&repo=the-rolling-oven&theme=tokyonight&hide_border=true&border_radius=10&show_owner=true" />
 </a>
@@ -139,67 +133,144 @@ Mission     : Bridging industrial operations, data analytics, and modern web eng
 
 <br>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🥐 The Rolling Oven</h3>
-      <p align="center">
-        <a href="https://the-rolling-oven.vercel.app">
-          <img src="https://img.shields.io/badge/▶_LIVE_DEMO-E28743?style=for-the-badge" />
-        </a>
-        <a href="https://github.com/sugan0025/the-rolling-oven">
-          <img src="https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github" />
-        </a>
-      </p>
-      <p><b>Full-Stack D2C Commerce & GA4 Telemetry Platform</b></p>
-      <p>Next.js 16 SSG • TypeScript • Supabase • GA4 Telemetry • Vanilla CSS • EmailJS Dual Proxy • Zod Server-Side Price Validation</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🎓 MBA Placement Hub</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/INSTITUTIONAL_TOOL-0A66C2?style=for-the-badge" />
-      </p>
-      <p><b>Student Placement Intelligence & GD Evaluation System</b></p>
-      <p>Advanced Excel Automation • Formula Pipelines • Candidate Tracking across Group Discussions, Mock Interviews & Shortlisting</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🏭 Roots Industries RALP</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/INDUSTRIAL_OPS-FF5722?style=for-the-badge" />
-      </p>
-      <p><b>Factory Layout Planner & Training Record Automation</b></p>
-      <p>Python openpyxl • Cycle-Time/Motion Studies • Multi-Phase Employee Training Logs • Horn Division Process QA</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">📊 Power BI Sales Dashboard</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/BUSINESS_INTELLIGENCE-F2C811?style=for-the-badge" />
-      </p>
-      <p><b>Interactive Multi-Page Retail Analytics</b></p>
-      <p>Power BI • DAX Measures • Sales Velocity Analysis • Customer Cohort Retention • Regional Revenue Distribution</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">⚡ AnimeFlux</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/CREATIVE_UI_LAB-7C3AED?style=for-the-badge" />
-      </p>
-      <p><b>Cinematic Streaming Discovery Portal</b></p>
-      <p>React • Vite • TypeScript • Tailwind CSS • Custom WebGL Shader Wave Transitions • Glassmorphic Dark-Mode UI</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🏭 FactoryPulse <sub><sup>🚧 In Dev</sup></sub></h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/LEARNING_ROADMAP-2E7D32?style=for-the-badge" />
-      </p>
-      <p><b>Manufacturing Operations Analytics Engine</b></p>
-      <p>PostgreSQL • Python • Docker • Kubernetes <i>(Learning Path)</i> — Shop-floor OEE Monitoring & Predictive Maintenance</p>
-    </td>
-  </tr>
-</table>
+<!-- ── PROJECT 1: THE ROLLING OVEN ── -->
+<details>
+<summary><h3>🥐 The Rolling Oven — Full-Stack D2C Commerce & GA4 Telemetry Platform &nbsp; <sub>Click to expand ▾</sub></h3></summary>
+<br>
+
+<div align="center">
+
+<a href="https://the-rolling-oven.vercel.app">
+  <img src="https://img.shields.io/badge/▶_LIVE_DEMO-E28743?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://github.com/sugan0025/the-rolling-oven">
+  <img src="https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+<br>
+
+> **A production-grade direct-to-consumer artisan bakery platform** eliminating 25–35% aggregator commissions while capturing 100% first-party customer data.
+
+**🏗️ Architecture & Stack:**
+| Layer | Technologies |
+|---|---|
+| **Frontend** | Next.js 16 (App Router, SSG), TypeScript, Vanilla CSS Design System |
+| **Backend** | Supabase PostgreSQL, REST API Routes, Zod Schema Validation |
+| **Analytics** | Google Analytics 4 (`G-GWTWBBBDQ2`), UTM Attribution, Funnel Instrumentation |
+| **Security** | Server-side price recalculation, sliding-window rate limiter, honeypot anti-bot |
+| **Dispatch** | `Promise.allSettled` dual EmailJS proxy (customer receipt + owner alert) |
+
+**📊 Engineering Highlights:**
+- ⚡ **Sub-900ms SSG** pre-rendering across 15 dynamic category routes
+- 🛡️ **Zero-Trust Price Engine** — server recalculates cart total against catalog before DB write
+- 📈 **Full E-Commerce Funnel** — `view_item_list` ➔ `select_item` ➔ `add_to_cart` ➔ `begin_checkout` ➔ `purchase`
+- 🗺️ **Hyper-Local Market** — Serving Sathyamangalam, Erode, Gobichettipalayam & Coimbatore
+
+---
+
+</details>
+
+<!-- ── PROJECT 2: MBA PLACEMENT HUB ── -->
+<details>
+<summary><h3>🎓 MBA Placement & GD Performance Hub — Institutional Intelligence System &nbsp; <sub>Click to expand ▾</sub></h3></summary>
+<br>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Role-Placement_Coordinator-0A66C2?style=for-the-badge&logo=microsoft-academic&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/Batch-2025--2027-10B981?style=for-the-badge&logo=google-scholar&logoColor=white" />
+
+</div>
+
+<br>
+
+> **End-to-end student placement preparation tracking system** built for the MBA batch at School of Management Studies, BIT Sathy.
+
+**📋 System Capabilities:**
+| Feature | Implementation |
+|---|---|
+| **GD Rubric Analytics** | Structured scoring matrices for Group Discussion evaluation across communication, leadership, and critical thinking |
+| **Candidate Pipeline** | Full tracking from registration → mock interviews → company shortlisting → final placement |
+| **Performance Dashboards** | Automated formula-driven KPIs measuring batch-level preparation readiness |
+| **Data Architecture** | Advanced Excel with multi-sheet relational formula pipelines and conditional formatting |
+
+**🎯 Impact:**
+- 📊 Centralized tracking for the entire **2025–2027 MBA batch** placement lifecycle
+- 📈 Automated performance scoring replacing manual rubric evaluation
+- 🏢 Streamlined company visit coordination and candidate-role matching
+
+---
+
+</details>
+
+<!-- ── PROJECT 3: ROOTS INDUSTRIES RALP ── -->
+<details>
+<summary><h3>🏭 Roots Industries — Factory Process Automation & RALP &nbsp; <sub>Click to expand ▾</sub></h3></summary>
+<br>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Division-Horn_Manufacturing-FF5722?style=for-the-badge&logo=industry&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/Domain-Industrial_Engineering-795548?style=for-the-badge&logo=blueprint&logoColor=white" />
+
+</div>
+
+<br>
+
+> **Industrial process analysis, training workflow automation, and assembly layout planning** during internship at Roots Industries (India's leading automotive horn manufacturer).
+
+**🔧 Deliverables:**
+| Project | Tech & Method | Business Impact |
+|---|---|---|
+| **Time & Motion Study** | Python `openpyxl`, cycle-time stopwatch data, stage-wise analysis | Identified production bottlenecks across W90 horn/electronics assembly lines |
+| **Training Record Automation** | Excel `.xlsm` with VBA, multi-phase tracking (Phases 1–4) | Automated employee training lifecycle from onboarding to certification |
+| **RALP (Assembly Layout Planner)** | Web-based interactive factory layout tool | Visual spatial optimization for shop-floor equipment and workstation placement |
+| **Observation Log & Dashboard** | Automated Excel workbook with KPIs, charts, slicers, and conditional formatting | 16+ shop-floor abnormalities tracked with root cause analysis and priority-based due dates |
+
+**👥 Key Personnel:**
+- Line Supervisor: **Mr. Sampath Kumar** | Faculty Guide: **Mr. P. Rajkumar**
+
+---
+
+</details>
+
+<!-- ── PROJECT 4: POWER BI DASHBOARD ── -->
+<details>
+<summary><h3>📊 Power BI Retail Sales & Executive Intelligence Dashboard &nbsp; <sub>Click to expand ▾</sub></h3></summary>
+<br>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Tool-Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+&nbsp;
+<img src="https://img.shields.io/badge/Language-DAX-FF6F00?style=for-the-badge&logo=powerbi&logoColor=white" />
+
+</div>
+
+<br>
+
+> **Multi-page interactive business intelligence dashboard** analyzing retail sales performance, customer behavior, and revenue distribution.
+
+**📈 Dashboard Pages & Metrics:**
+| Page | Key Visualizations & Measures |
+|---|---|
+| **Sales Overview** | Revenue trends, period-over-period growth, top-performing SKUs, geographic heat maps |
+| **Customer Analytics** | Cohort retention curves, purchase frequency distributions, segment-level AOV |
+| **Regional Performance** | District-level revenue contribution, delivery zone profitability, demand clustering |
+
+**🛠️ Technical Implementation:**
+- 📐 **DAX Measures** for calculated columns, time-intelligence functions, and rolling averages
+- 🔄 **Data Modeling** with star-schema relationships across fact and dimension tables
+- 🎨 **Visual Design** with drill-through pages, dynamic slicers, and cross-filtering interactions
+
+---
+
+</details>
 
 <!-- Animated Rainbow Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4300-a447-11eb-908a-139a6edaec5c.gif" width="100%">
