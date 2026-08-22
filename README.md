@@ -16,13 +16,17 @@
 
 <br><br>
 
-<!-- Row 1: Shipped Live Platforms -->
+<!-- Row 1: Shipped Live Platforms & Tools -->
 <a href="https://the-rolling-oven.vercel.app">
   <img src="https://img.shields.io/badge/🥐_Live_Platform-The_Rolling_Oven-E28743?style=for-the-badge&logoColor=white" alt="Live Demo" />
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/sugan0025/one-smart-era">
   <img src="https://img.shields.io/badge/🏛️_Platform-One_Smart_Era-10B981?style=for-the-badge&logoColor=white" alt="One Smart Era" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/sugan0025/Sugan-s-ClaudeCounter">
+  <img src="https://img.shields.io/badge/🐱_AI_Telemetry-ClaudeCounter-38BDF8?style=for-the-badge&logoColor=white" alt="ClaudeCounter" />
 </a>
 
 <br><br>
@@ -64,6 +68,8 @@ Mission     : Bridging industrial operations, data analytics, and modern web eng
 <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWd1ZnNyZGZ4MGhiOHJxdWdsdjB4a2U1OHk2OWN4ajhkY3loN2JxMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="270" alt="Coding animation"/>
 
 - 🎓 **MBA Placement Coordinator** — Built the Student Placement Master System & GD Analytics Dashboard tracking batch performance across recruitment pipelines.
+
+- 🐱 **AI Tooling & Telemetry Architect** — Built & deployed **[Sugan's ClaudeCounter](https://github.com/sugan0025/Sugan-s-ClaudeCounter)** — a real-time token & rate-limit telemetry HUD for Claude.ai with pure frosted liquid glass, interactive typing cat, and full session reasoning/artifact exporter.
 
 - 🥐 **D2C Commerce Architect** — Built & deployed **[The Rolling Oven](https://the-rolling-oven.vercel.app)** — a full-stack D2C bakery platform with <900ms SSG, GA4 telemetry, and server-side price validation.
 
@@ -131,29 +137,33 @@ Mission     : Bridging industrial operations, data analytics, and modern web eng
 
 <div align="center">
 
-<!-- Row 1: Rolling Oven + One Smart Era -->
+<!-- Row 1: Rolling Oven + ClaudeCounter -->
 <a href="https://the-rolling-oven.vercel.app">
   <img src="./assets/card-rolling-oven.svg" width="46%" alt="The Rolling Oven" />
 </a>
 &nbsp;&nbsp;
+<a href="https://github.com/sugan0025/Sugan-s-ClaudeCounter">
+  <img src="./assets/card-claudecounter.svg" width="46%" alt="Sugan's ClaudeCounter" />
+</a>
+
+<br><br>
+
+<!-- Row 2: One Smart Era + MBA Placement Hub -->
 <a href="https://github.com/sugan0025/one-smart-era">
   <img src="./assets/card-one-smart-era.svg" width="46%" alt="One Smart Era" />
 </a>
-
-<br><br>
-
-<!-- Row 2: MBA Placement Hub + Roots RALP -->
+&nbsp;&nbsp;
 <a href="https://github.com/sugan0025">
   <img src="./assets/card-placement-hub.svg" width="46%" alt="MBA Placement Hub" />
 </a>
-&nbsp;&nbsp;
-<a href="https://github.com/sugan0025">
-  <img src="./assets/card-roots-ralp.svg" width="46%" alt="Roots Industries RALP" />
-</a>
 
 <br><br>
 
-<!-- Row 3: Power BI Dashboard -->
+<!-- Row 3: Roots RALP + Power BI Dashboard -->
+<a href="https://github.com/sugan0025">
+  <img src="./assets/card-roots-ralp.svg" width="46%" alt="Roots Industries RALP" />
+</a>
+&nbsp;&nbsp;
 <a href="https://github.com/sugan0025">
   <img src="./assets/card-power-bi.svg" width="46%" alt="Power BI Dashboard" />
 </a>

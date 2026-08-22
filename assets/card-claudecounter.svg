@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="220" viewBox="0 0 440 220">
+  <defs>
+    <linearGradient id="border-cc" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#E28743;stop-opacity:0.95"/>
+      <stop offset="50%" style="stop-color:#38BDF8;stop-opacity:0.85"/>
+      <stop offset="100%" style="stop-color:#8B5CF6;stop-opacity:0.75"/>
+    </linearGradient>
+    <filter id="shadow-cc">
+      <feDropShadow dx="0" dy="4" stdDeviation="8" flood-color="#E28743" flood-opacity="0.35"/>
+    </filter>
+  </defs>
+  <!-- Outer glow border -->
+  <rect x="2" y="2" width="436" height="216" rx="16" ry="16" fill="none" stroke="url(#border-cc)" stroke-width="2" filter="url(#shadow-cc)"/>
+  <!-- Glass background -->
+  <rect x="4" y="4" width="432" height="212" rx="14" ry="14" fill="#0d1117" fill-opacity="0.88"/>
+  <!-- Inner frosted layer -->
+  <rect x="4" y="4" width="432" height="212" rx="14" ry="14" fill="#0f172a" fill-opacity="0.55"/>
+  <!-- Accent line -->
+  <rect x="24" y="24" width="4" height="40" rx="2" fill="#E28743"/>
+  <!-- Title -->
+  <text x="40" y="42" font-family="'Segoe UI',Roboto,Arial,sans-serif" font-size="20" font-weight="700" fill="#ffffff">🐱⚡  Sugan's ClaudeCounter</text>
+  <text x="40" y="62" font-family="'Segoe UI',Roboto,Arial,sans-serif" font-size="11" font-weight="600" fill="#38BDF8" letter-spacing="0.5">LIVE AI TOKEN &amp; RATE LIMIT TELEMETRY HUD &amp; EXPORTER</text>
+  <!-- Divider -->
+  <line x1="24" y1="78" x2="416" y2="78" stroke="#E28743" stroke-opacity="0.25" stroke-width="1"/>
+  <!-- Description -->
+  <text x="24" y="100" font-family="'Segoe UI',Roboto,Arial,sans-serif" font-size="12" fill="#c9d1d9">Real-time token &amp; rate limit telemetry HUD for Claude.ai with</text>
+  <text x="24" y="118" font-family="'Segoe UI',Roboto,Arial,sans-serif" font-size="12" fill="#c9d1d9">pure frosted glass, dynamic typing cat &amp; full session export.</text>
+  <!-- Tech pills -->
+  <rect x="24" y="138" width="90" height="22" rx="11" fill="#E28743" fill-opacity="0.18"/>
+  <text x="34" y="153" font-family="'Segoe UI',Roboto,Arial,sans-serif" font-size="10" font-weight="600" fill="#FB923C">Chrome Ext</text>
+  <rect x="122" y="138" width="76" height="22" rx="11" fill="#0EA5E9" fill-opacity="0.18"/>
+  <text x="132" y="153" font-family="'Segoe UI',Roboto,Arial,sans-serif" font-size="10" font-weight="600" fill="#38BDF8">Vanilla JS</text>
+  <rect x="206" y="138" width="82" height="22" rx="11" fill="#8B5CF6" fill-opacity="0.18"/>
+  <text x="216" y="153" font-family="'Segoe UI',Roboto,Arial,sans-serif" font-size="10" font-weight="600" fill="#A78BFA">Tokenizer</text>
+  <rect x="296" y="138" width="60" height="22" rx="11" fill="#10B981" fill-opacity="0.18"/>
+  <text x="306" y="153" font-family="'Segoe UI',Roboto,Arial,sans-serif" font-size="10" font-weight="600" fill="#34D399">Glass UI</text>
+  <rect x="364" y="138" width="56" height="22" rx="11" fill="#EF4444" fill-opacity="0.18"/>
+  <text x="374" y="153" font-family="'Segoe UI',Roboto,Arial,sans-serif" font-size="10" font-weight="600" fill="#F87171">SHA-256</text>
+  <!-- Bottom highlights -->
+  <text x="24" y="186" font-family="'Segoe UI',Roboto,Arial,sans-serif" font-size="11" fill="#8b949e">⚡ 5m Cache Timer  •  ⏱️ 5h / 7d Limits  •  📥 Full Chat Export</text>
+  <text x="24" y="204" font-family="'Segoe UI',Roboto,Arial,sans-serif" font-size="11" fill="#E28743">▶ github.com/sugan0025/Sugan-s-ClaudeCounter</text>
+</svg>
