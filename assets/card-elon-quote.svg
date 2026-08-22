@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="150" viewBox="0 0 700 150">
+  <defs>
+    <linearGradient id="quote-border" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#E28743;stop-opacity:0.9"/>
+      <stop offset="50%" style="stop-color:#0EA5E9;stop-opacity:0.8"/>
+      <stop offset="100%" style="stop-color:#10B981;stop-opacity:0.7"/>
+    </linearGradient>
+    <filter id="quote-shadow">
+      <feDropShadow dx="0" dy="4" stdDeviation="8" flood-color="#E28743" flood-opacity="0.25"/>
+    </filter>
+  </defs>
+  <!-- Border with glow -->
+  <rect x="2" y="2" width="696" height="146" rx="16" ry="16" fill="none" stroke="url(#quote-border)" stroke-width="2" filter="url(#quote-shadow)"/>
+  <!-- Glass Background -->
+  <rect x="4" y="4" width="692" height="142" rx="14" ry="14" fill="#0d1117" fill-opacity="0.92"/>
+  <rect x="4" y="4" width="692" height="142" rx="14" ry="14" fill="#1a1b27" fill-opacity="0.35"/>
+  <!-- Quote Mark Icon -->
+  <text x="32" y="55" font-family="Georgia,serif" font-size="64" font-weight="700" fill="#E28743" fill-opacity="0.4">“</text>
+  <!-- Quote Text -->
+  <text x="70" y="52" font-family="'Segoe UI',Roboto,Helvetica,sans-serif" font-size="16" font-style="italic" font-weight="600" fill="#F8FAFC">
+    "When something is important enough, you do it even if
+  </text>
+  <text x="70" y="78" font-family="'Segoe UI',Roboto,Helvetica,sans-serif" font-size="16" font-style="italic" font-weight="600" fill="#F8FAFC">
+    the odds are not in your favor."
+  </text>
+  <!-- Author Tag -->
+  <text x="650" y="118" text-anchor="end" font-family="'Segoe UI',Roboto,Helvetica,sans-serif" font-size="14" font-weight="700" fill="#E28743">
+    — Elon Musk
+  </text>
+  <text x="548" y="118" text-anchor="end" font-family="'Segoe UI',Roboto,Helvetica,sans-serif" font-size="12" font-weight="500" fill="#94A3B8">
+    Founder @ SpaceX &amp; Tesla &nbsp;
+  </text>
+</svg>

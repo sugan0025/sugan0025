@@ -47,7 +47,7 @@
 <!-- ║       ABOUT ME SECTION        ║ -->
 <!-- ╚═══════════════════════════════╝ -->
 
-<h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> &nbsp;About Me</h2>
+<h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="42" align="center"> &nbsp;About Me</h2>
 
 ```yaml
 Name        : Suganesan S (Sugan)
@@ -82,7 +82,7 @@ Mission     : Bridging industrial operations, data analytics, and modern web eng
 <!-- ║     TECH STACK SECTION        ║ -->
 <!-- ╚═══════════════════════════════╝ -->
 
-<h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp;Shipped Tech & Analytics Stack</h2>
+<h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="42" align="center"> &nbsp;Shipped Tech & Analytics Stack</h2>
 
 <div align="center">
 
@@ -127,7 +127,7 @@ Mission     : Bridging industrial operations, data analytics, and modern web eng
 <!-- Animated Rainbow Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4300-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<h2><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> &nbsp;Flagship Projects & Case Studies</h2>
+<h2><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="42" align="center"> &nbsp;Flagship Projects &amp; Case Studies</h2>
 
 <div align="center">
 
@@ -167,7 +167,7 @@ Mission     : Bridging industrial operations, data analytics, and modern web eng
 <!-- ║     HONORS & ACHIEVEMENTS     ║ -->
 <!-- ╚═══════════════════════════════╝ -->
 
-<h2><img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="28"> &nbsp;Key Milestones &amp; Honors</h2>
+<h2><img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="42" align="center"> &nbsp;Key Milestones &amp; Honors</h2>
 
 <div align="center">
   <img src="./assets/card-trophies.svg" width="95%" alt="Key Milestones &amp; Honors" />
@@ -180,7 +180,7 @@ Mission     : Bridging industrial operations, data analytics, and modern web eng
 <!-- ║   GITHUB STATS & ANALYTICS    ║ -->
 <!-- ╚═══════════════════════════════╝ -->
 
-<h2><img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ris/giphy.gif" width="28"> &nbsp;GitHub Analytics &amp; Technology Distribution</h2>
+<h2><img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ris/giphy.gif" width="42" align="center"> &nbsp;GitHub Analytics &amp; Technology Distribution</h2>
 
 <div align="center">
 
@@ -203,7 +203,7 @@ Mission     : Bridging industrial operations, data analytics, and modern web eng
 <!-- ║    SNAKE CONTRIBUTION GRAPH   ║ -->
 <!-- ╚═══════════════════════════════╝ -->
 
-<h2><img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="28"> &nbsp;Contribution Snake Arena</h2>
+<h2><img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="42" align="center"> &nbsp;Contribution Snake Arena</h2>
 
 <div align="center">
 
@@ -224,7 +224,8 @@ Mission     : Bridging industrial operations, data analytics, and modern web eng
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" width="70%" />
+<!-- Custom Frosted Elon Musk Quote Card -->
+<img src="./assets/card-elon-quote.svg" width="85%" alt="Elon Musk Quote" />
 
 <br><br>
 
