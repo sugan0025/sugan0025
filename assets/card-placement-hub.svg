@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="220" viewBox="0 0 440 220">
+  <defs>
+    <linearGradient id="border2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0A66C2;stop-opacity:0.9"/>
+      <stop offset="100%" style="stop-color:#58a6ff;stop-opacity:0.5"/>
+    </linearGradient>
+    <filter id="shadow2">
+      <feDropShadow dx="0" dy="4" stdDeviation="8" flood-color="#0A66C2" flood-opacity="0.3"/>
+    </filter>
+  </defs>
+  <rect x="2" y="2" width="436" height="216" rx="16" ry="16" fill="none" stroke="url(#border2)" stroke-width="2" filter="url(#shadow2)"/>
+  <rect x="4" y="4" width="432" height="212" rx="14" ry="14" fill="#0d1117" fill-opacity="0.85"/>
+  <rect x="4" y="4" width="432" height="212" rx="14" ry="14" fill="#1a1b27" fill-opacity="0.4"/>
+  <rect x="24" y="24" width="4" height="40" rx="2" fill="#0A66C2"/>
+  <text x="40" y="42" font-family="'Segoe UI',Roboto,Arial,sans-serif" font-size="20" font-weight="700" fill="#ffffff">🎓  MBA Placement Hub</text>
+  <text x="40" y="62" font-family="'Segoe UI',Roboto,Arial,sans-serif" font-size="12" font-weight="400" fill="#58a6ff">PLACEMENT COORDINATOR  •  2025–2027 BATCH</text>
+  <line x1="24" y1="78" x2="416" y2="78" stroke="#0A66C2" stroke-opacity="0.2" stroke-width="1"/>
+  <text x="24" y="100" font-family="'Segoe UI',Roboto,Arial,sans-serif" font-size="12" fill="#c9d1d9">End-to-end student placement preparation &amp; GD</text>
+  <text x="24" y="118" font-family="'Segoe UI',Roboto,Arial,sans-serif" font-size="12" fill="#c9d1d9">evaluation system for BIT Sathy MBA batch.</text>
+  <rect x="24" y="138" width="96" height="22" rx="11" fill="#0A66C2" fill-opacity="0.15"/>
+  <text x="34" y="153" font-family="'Segoe UI',Roboto,Arial,sans-serif" font-size="10" fill="#58a6ff">Advanced Excel</text>
+  <rect x="128" y="138" width="58" height="22" rx="11" fill="#217346" fill-opacity="0.15"/>
+  <text x="142" y="153" font-family="'Segoe UI',Roboto,Arial,sans-serif" font-size="10" fill="#3fb950">VBA</text>
+  <rect x="194" y="138" width="110" height="22" rx="11" fill="#0A66C2" fill-opacity="0.15"/>
+  <text x="204" y="153" font-family="'Segoe UI',Roboto,Arial,sans-serif" font-size="10" fill="#58a6ff">Formula Pipelines</text>
+  <rect x="312" y="138" width="72" height="22" rx="11" fill="#8957e5" fill-opacity="0.15"/>
+  <text x="322" y="153" font-family="'Segoe UI',Roboto,Arial,sans-serif" font-size="10" fill="#d2a8ff">Analytics</text>
+  <text x="24" y="186" font-family="'Segoe UI',Roboto,Arial,sans-serif" font-size="11" fill="#8b949e">📋 GD Rubrics  •  📊 Performance KPIs  •  🏢 Candidate Pipeline</text>
+  <text x="24" y="204" font-family="'Segoe UI',Roboto,Arial,sans-serif" font-size="11" fill="#58a6ff">School of Management Studies, BIT Sathy</text>
+</svg>
