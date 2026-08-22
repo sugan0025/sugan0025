@@ -1,33 +1,35 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="700" height="150" viewBox="0 0 700 150">
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="150" viewBox="0 0 880 150">
   <defs>
-    <linearGradient id="elon-border" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#E28743" stop-opacity="0.95"/>
-      <stop offset="50%" stop-color="#0EA5E9" stop-opacity="0.85"/>
-      <stop offset="100%" stop-color="#10B981" stop-opacity="0.8"/>
+    <linearGradient id="borderQuote" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#E28743;stop-opacity:0.95"/>
+      <stop offset="50%" style="stop-color:#58a6ff;stop-opacity:0.7"/>
+      <stop offset="100%" style="stop-color:#3ecf8e;stop-opacity:0.5"/>
     </linearGradient>
-    <filter id="elon-glow" x="-10%" y="-10%" width="120%" height="120%">
-      <feDropShadow dx="0" dy="4" stdDeviation="6" flood-color="#E28743" flood-opacity="0.3"/>
+    <filter id="shadowQuote">
+      <feDropShadow dx="0" dy="4" stdDeviation="8" flood-color="#E28743" flood-opacity="0.3"/>
     </filter>
   </defs>
-  <!-- Outer Card Border -->
-  <rect x="2" y="2" width="696" height="146" rx="16" ry="16" fill="none" stroke="url(#elon-border)" stroke-width="2" filter="url(#elon-glow)"/>
-  <!-- Glass Background -->
-  <rect x="4" y="4" width="692" height="142" rx="14" ry="14" fill="#0d1117" fill-opacity="0.95"/>
-  <rect x="4" y="4" width="692" height="142" rx="14" ry="14" fill="#161b22" fill-opacity="0.5"/>
-  <!-- Quote Mark Icon -->
-  <text x="28" y="58" font-family="Georgia,serif" font-size="68" font-weight="bold" fill="#E28743" fill-opacity="0.4">“</text>
-  <!-- Quote Text -->
-  <text x="68" y="52" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif" font-size="16" font-style="italic" font-weight="600" fill="#F8FAFC">
-    "When something is important enough, you do it even if
-  </text>
-  <text x="68" y="78" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif" font-size="16" font-style="italic" font-weight="600" fill="#F8FAFC">
-    the odds are not in your favor."
-  </text>
-  <!-- Author Tag & Rocket -->
-  <text x="660" y="118" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif" font-size="14" font-weight="bold" fill="#E28743">
-    🚀 — Elon Musk
-  </text>
-  <text x="535" y="118" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif" font-size="12" font-weight="500" fill="#94A3B8">
-    Founder @ SpaceX &amp; Tesla &nbsp;
-  </text>
+  <!-- Card Base -->
+  <rect x="2" y="2" width="876" height="146" rx="16" ry="16" fill="none" stroke="url(#borderQuote)" stroke-width="2" filter="url(#shadowQuote)"/>
+  <rect x="4" y="4" width="872" height="142" rx="14" ry="14" fill="#0d1117" fill-opacity="0.92"/>
+  <rect x="4" y="4" width="872" height="142" rx="14" ry="14" fill="#1a1b27" fill-opacity="0.4"/>
+
+  <!-- Left Accent Bar -->
+  <rect x="24" y="24" width="4" height="40" rx="2" fill="#E28743"/>
+
+  <!-- Large Quotation Glyph -->
+  <text x="42" y="58" font-family="Georgia,serif" font-size="52" font-weight="700" fill="#E28743" fill-opacity="0.5">“</text>
+
+  <!-- Quote Lines -->
+  <text x="80" y="48" font-family="'Segoe UI',Roboto,Arial,sans-serif" font-size="16" font-style="italic" font-weight="600" fill="#ffffff">When something is important enough, you do it even if the odds are not in your favor.</text>
+  <text x="80" y="74" font-family="'Segoe UI',Roboto,Arial,sans-serif" font-size="13" fill="#8b949e">Relentless execution, first-principles thinking, and continuous iteration.</text>
+
+  <!-- Divider -->
+  <line x1="24" y1="96" x2="856" y2="96" stroke="#30363d" stroke-width="1"/>
+
+  <!-- Author Attribution -->
+  <circle cx="36" cy="122" r="5" fill="#E28743"/>
+  <text x="50" y="126" font-family="'Segoe UI',Roboto,Arial,sans-serif" font-size="13" font-weight="700" fill="#E28743">Elon Musk</text>
+  <text x="135" y="126" font-family="'Segoe UI',Roboto,Arial,sans-serif" font-size="12" fill="#8b949e">— Founder @ SpaceX, Tesla &amp; xAI</text>
+  <text x="856" y="126" font-family="'Segoe UI',Roboto,Arial,sans-serif" font-size="11" fill="#58a6ff" text-anchor="end">FIRST-PRINCIPLES MINDSET 🚀</text>
 </svg>
