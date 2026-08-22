@@ -9,33 +9,33 @@
 
 <div align="center">
 
-<!-- Animated Typing SVG -->
+<!-- Animated Typing SVG (Full Width, Zero Cutoff) -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=E28743&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=MBA+Placement+Coordinator+%40+BIT+Sathy+%7C+2025-2027;Business+Analyst+%E2%80%A2+Power+BI+%E2%80%A2+Python+%E2%80%A2+Advanced+Excel;Next.js+16+%E2%80%A2+Flutter+%E2%80%A2+Supabase+%E2%80%A2+GA4+Telemetry;Industrial+Process+Analytics+%40+Roots+Industries" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1200&color=E28743&center=true&vCenter=true&repeat=true&width=800&height=50&lines=MBA+Placement+Coordinator+%40+BIT+Sathy+%7C+2025-2027;Business+Analyst+%E2%80%A2+Power+BI+%E2%80%A2+Python+%E2%80%A2+Excel;Full-Stack+Engineer+%E2%80%A2+Next.js+16+%E2%80%A2+Flutter+3+%E2%80%A2+Supabase;Industrial+Process+Analytics+%40+Roots+Industries" alt="Typing SVG" />
 </a>
 
-<br>
+<br><br>
 
-<!-- Social & Live Project Badges -->
+<!-- Row 1: Shipped Live Platforms -->
 <a href="https://the-rolling-oven.vercel.app">
   <img src="https://img.shields.io/badge/🥐_Live_Platform-The_Rolling_Oven-E28743?style=for-the-badge&logoColor=white" alt="Live Demo" />
 </a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="https://github.com/sugan0025/one-smart-era">
   <img src="https://img.shields.io/badge/🏛️_Platform-One_Smart_Era-10B981?style=for-the-badge&logoColor=white" alt="One Smart Era" />
 </a>
-&nbsp;
+
+<br><br>
+
+<!-- Row 2: Socials & Analytics -->
 <a href="https://github.com/sugan0025">
   <img src="https://img.shields.io/badge/GitHub-sugan0025-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="https://linkedin.com/in/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-
-<br>
-
-<!-- Profile Views Counter -->
+&nbsp;&nbsp;
 <img src="https://komarev.com/ghpvc/?username=sugan0025&style=for-the-badge&color=E28743&label=PROFILE+VIEWS" alt="Profile Views" />
 
 </div>
