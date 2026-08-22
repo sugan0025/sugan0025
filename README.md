@@ -45,7 +45,7 @@ Core Philosophy: Bridging real industrial operations, business data analytics, a
 
 - 🎓 **MBA Placement Coordinator:** Designed the **Student Placement Master System & GD Analytics Dashboard** to monitor student placement preparation, Group Discussion performance rubrics, and recruitment pipelines.
 - 🏭 **Industrial Process Analytics:** Analyzed factory floor operations at **Roots Industries** (Horn Division), engineering automated time-and-motion studies and multi-phase employee training trackers.
-- 🥐 **Live D2C Engineering:** Built & deployed **[The Rolling Oven](https://the-rolling-oven.vercel.app)** — a high-performance artisan bakery platform with sub-second SSG, GA4 funnel telemetry, and server-side price validation.
+- 🥐 **D2C Commerce & Telemetry Architecture:** Built & deployed **[The Rolling Oven](https://the-rolling-oven.vercel.app)** — a complete D2C bakery platform prototype with <900ms SSG, full GA4 e-commerce telemetry, and server-side price validation.
 - 🎨 **Creative Frontend Craft:** Developed **AnimeFlux** and interactive UI applications featuring cinematic WebGL wave transitions and responsive glassmorphic interfaces.
 
 ---
@@ -63,7 +63,7 @@ Core Philosophy: Bridging real industrial operations, business data analytics, a
 
 | Core Domain | Shipped Technologies & Tools |
 |---|---|
-| **📊 Business Analytics & BI** | `Power BI (DAX)` • `Google Analytics 4 (GA4)` • `Python (pandas / openpyxl)` • `Advanced Excel & VBA` • `Funnel CRO` • `RFM Modeling` |
+| **📊 Business Analytics & BI** | `Power BI (DAX)` • `Google Analytics 4 (GA4)` • `Python (pandas / openpyxl)` • `Advanced Excel & VBA` • `Funnel Analysis` • `RFM Concepts` |
 | **⚡ Full-Stack Web Dev** | `Next.js 16 (App Router, SSG)` • `React` • `TypeScript` • `Supabase (PostgreSQL)` • `Tailwind CSS` • `Vercel` • `REST APIs` |
 | **🏭 Operations & Process** | `Time & Motion Study Analysis` • `Placement Tracking Architecture` • `Assembly Layout Planning (RALP)` • `Zod Validation` |
 
@@ -77,11 +77,11 @@ Core Philosophy: Bridging real industrial operations, business data analytics, a
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">🥐 The Rolling Oven</h3>
-      <p align="center"><b>Production D2C E-Commerce & GA4 Telemetry Platform</b></p>
+      <p align="center"><b>Full-Stack D2C Commerce & GA4 Telemetry Platform</b></p>
       <ul>
         <li><b>Tech Stack:</b> Next.js 16 (SSG), TypeScript, Supabase, GA4 (<code>G-GWTWBBBDQ2</code>), Vanilla CSS.</li>
-        <li><b>Key Impact:</b> Zero-commission D2C architecture, <b>83.33% top-of-funnel conversion rate</b>, sub-900ms build times, server-side anti-tampering price engine.</li>
-        <li><b>Live:</b> <a href="https://the-rolling-oven.vercel.app">the-rolling-oven.vercel.app</a></li>
+        <li><b>Architecture Highlights:</b> Complete D2C commerce architecture with sub-900ms build-time SSG, full e-commerce funnel instrumentation (<code>view_item_list</code> ➔ <code>purchase</code>), dual EmailJS dispatch, and server-side Zod price integrity.</li>
+        <li><b>Live Demo:</b> <a href="https://the-rolling-oven.vercel.app">the-rolling-oven.vercel.app</a></li>
       </ul>
     </td>
     <td width="50%" valign="top">
