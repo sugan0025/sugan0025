@@ -156,7 +156,7 @@ Mission     : Bridging industrial operations, data analytics, and modern web eng
 <h2><img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="28"> &nbsp;GitHub Trophies</h2>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sugan0025&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sugan0025&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=10&margin-h=10" alt="GitHub Trophies" width="80%" />
 </div>
 
 <!-- Animated Rainbow Divider -->
@@ -172,7 +172,7 @@ Mission     : Bridging industrial operations, data analytics, and modern web eng
 
 <!-- Stats & Streak Side by Side -->
 <a href="https://github.com/sugan0025">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sugan0025&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&border_radius=10" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sugan0025&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&border_radius=10&card_width=400" alt="GitHub Stats" />
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/sugan0025">
@@ -183,7 +183,7 @@ Mission     : Bridging industrial operations, data analytics, and modern web eng
 
 <!-- Top Languages -->
 <a href="https://github.com/sugan0025">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sugan0025&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sugan0025&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8&card_width=400" alt="Top Languages" />
 </a>
 
 <br><br>
