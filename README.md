@@ -47,7 +47,7 @@
 <!-- ║       ABOUT ME SECTION        ║ -->
 <!-- ╚═══════════════════════════════╝ -->
 
-<h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="42" align="center"> &nbsp;About Me</h2>
+<h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="36" style="vertical-align: middle;"> &nbsp;About Me</h2>
 
 ```yaml
 Name        : Suganesan S (Sugan)
@@ -82,12 +82,12 @@ Mission     : Bridging industrial operations, data analytics, and modern web eng
 <!-- ║     TECH STACK SECTION        ║ -->
 <!-- ╚═══════════════════════════════╝ -->
 
-<h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="42" align="center"> &nbsp;Shipped Tech & Analytics Stack</h2>
+<h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="36" style="vertical-align: middle;"> &nbsp;Shipped Tech &amp; Analytics Stack</h2>
 
 <div align="center">
 
 <!-- Row 1: Analytics & BI -->
-<h4>📊 Business Analytics & Intelligence</h4>
+<h4>📊 Business Analytics &amp; Intelligence</h4>
 <a href="#"><img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /></a>
 <a href="#"><img src="https://img.shields.io/badge/Google_Analytics_4-E37400?style=for-the-badge&logo=google-analytics&logoColor=white" /></a>
 <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
@@ -95,7 +95,7 @@ Mission     : Bridging industrial operations, data analytics, and modern web eng
 <a href="#"><img src="https://img.shields.io/badge/DAX_Measures-FF6F00?style=for-the-badge&logo=powerbi&logoColor=white" /></a>
 
 <!-- Row 2: Web & Mobile Dev -->
-<h4>⚡ Full-Stack Web & Mobile Development</h4>
+<h4>⚡ Full-Stack Web &amp; Mobile Development</h4>
 
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=flutter,dart,nextjs,react,ts,tailwind,supabase,html,css,vite&theme=dark" />
@@ -110,7 +110,7 @@ Mission     : Bridging industrial operations, data analytics, and modern web eng
 <a href="#"><img src="https://img.shields.io/badge/Zod_Validation-3E67B1?style=for-the-badge&logo=zod&logoColor=white" /></a>
 
 <!-- Row 3: Tools & Ops -->
-<h4>🛠️ Tools, Operations & Process</h4>
+<h4>🛠️ Tools, Operations &amp; Process</h4>
 
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=git,github,postman,linux&theme=dark" />
@@ -127,35 +127,35 @@ Mission     : Bridging industrial operations, data analytics, and modern web eng
 <!-- Animated Rainbow Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4300-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<h2><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="42" align="center"> &nbsp;Flagship Projects &amp; Case Studies</h2>
+<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="38" style="vertical-align: middle;"> &nbsp;Flagship Projects &amp; Case Studies</h2>
 
 <div align="center">
 
 <!-- Row 1: Rolling Oven + One Smart Era -->
 <a href="https://the-rolling-oven.vercel.app">
-  <img src="./assets/card-rolling-oven.svg" width="46%" alt="The Rolling Oven" />
+  <img src="https://raw.githubusercontent.com/sugan0025/sugan0025/main/assets/card-rolling-oven.svg" width="46%" alt="The Rolling Oven" />
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/sugan0025/one-smart-era">
-  <img src="./assets/card-one-smart-era.svg" width="46%" alt="One Smart Era" />
+  <img src="https://raw.githubusercontent.com/sugan0025/sugan0025/main/assets/card-one-smart-era.svg" width="46%" alt="One Smart Era" />
 </a>
 
 <br><br>
 
 <!-- Row 2: MBA Placement Hub + Roots RALP -->
 <a href="https://github.com/sugan0025">
-  <img src="./assets/card-placement-hub.svg" width="46%" alt="MBA Placement Hub" />
+  <img src="https://raw.githubusercontent.com/sugan0025/sugan0025/main/assets/card-placement-hub.svg" width="46%" alt="MBA Placement Hub" />
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/sugan0025">
-  <img src="./assets/card-roots-ralp.svg" width="46%" alt="Roots Industries RALP" />
+  <img src="https://raw.githubusercontent.com/sugan0025/sugan0025/main/assets/card-roots-ralp.svg" width="46%" alt="Roots Industries RALP" />
 </a>
 
 <br><br>
 
 <!-- Row 3: Power BI Dashboard -->
 <a href="https://github.com/sugan0025">
-  <img src="./assets/card-power-bi.svg" width="46%" alt="Power BI Dashboard" />
+  <img src="https://raw.githubusercontent.com/sugan0025/sugan0025/main/assets/card-power-bi.svg" width="46%" alt="Power BI Dashboard" />
 </a>
 
 </div>
@@ -167,10 +167,10 @@ Mission     : Bridging industrial operations, data analytics, and modern web eng
 <!-- ║     HONORS & ACHIEVEMENTS     ║ -->
 <!-- ╚═══════════════════════════════╝ -->
 
-<h2><img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="42" align="center"> &nbsp;Key Milestones &amp; Honors</h2>
+<h2><img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="36" style="vertical-align: middle;"> &nbsp;Key Milestones &amp; Honors</h2>
 
 <div align="center">
-  <img src="./assets/card-trophies.svg" width="95%" alt="Key Milestones &amp; Honors" />
+  <img src="https://raw.githubusercontent.com/sugan0025/sugan0025/main/assets/card-trophies.svg" width="95%" alt="Key Milestones &amp; Honors" />
 </div>
 
 <!-- Animated Rainbow Divider -->
@@ -180,14 +180,14 @@ Mission     : Bridging industrial operations, data analytics, and modern web eng
 <!-- ║   GITHUB STATS & ANALYTICS    ║ -->
 <!-- ╚═══════════════════════════════╝ -->
 
-<h2><img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ris/giphy.gif" width="42" align="center"> &nbsp;GitHub Analytics &amp; Technology Distribution</h2>
+<h2><img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ris/giphy.gif" width="36" style="vertical-align: middle;"> &nbsp;GitHub Analytics &amp; Technology Distribution</h2>
 
 <div align="center">
 
 <!-- Row: Activity Stats + Code Distribution Glass Cards -->
-<img src="./assets/card-stats.svg" width="46%" alt="GitHub Activity &amp; Overview" />
+<img src="https://raw.githubusercontent.com/sugan0025/sugan0025/main/assets/card-stats.svg" width="46%" alt="GitHub Activity &amp; Overview" />
 &nbsp;&nbsp;
-<img src="./assets/card-languages.svg" width="46%" alt="Code &amp; Technology Distribution" />
+<img src="https://raw.githubusercontent.com/sugan0025/sugan0025/main/assets/card-languages.svg" width="46%" alt="Code &amp; Technology Distribution" />
 
 <br><br>
 
@@ -203,7 +203,7 @@ Mission     : Bridging industrial operations, data analytics, and modern web eng
 <!-- ║    SNAKE CONTRIBUTION GRAPH   ║ -->
 <!-- ╚═══════════════════════════════╝ -->
 
-<h2><img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="42" align="center"> &nbsp;Contribution Snake Arena</h2>
+<h2><img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="36" style="vertical-align: middle;"> &nbsp;Contribution Snake Arena</h2>
 
 <div align="center">
 
@@ -225,7 +225,7 @@ Mission     : Bridging industrial operations, data analytics, and modern web eng
 <div align="center">
 
 <!-- Custom Frosted Elon Musk Quote Card -->
-<img src="./assets/card-elon-quote.svg" width="85%" alt="Elon Musk Quote" />
+<img src="https://raw.githubusercontent.com/sugan0025/sugan0025/main/assets/card-elon-quote.svg" width="85%" alt="Elon Musk Quote" />
 
 <br><br>
 
