@@ -202,7 +202,7 @@ Mission     : Bridging industrial operations, data analytics, and modern web eng
 <br><br>
 
 <!-- Live Contribution Wave Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sugan0025&theme=tokyo-night&hide_border=true&area=true&radius=10" width="95%" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sugan0025&theme=tokyo-night&hide_border=true&area=true&radius=10&t=20260823" width="95%" alt="Activity Graph" />
 
 </div>
 
