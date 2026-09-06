@@ -199,6 +199,13 @@ Mission     : Bridging industrial operations, data analytics, and modern web eng
 &nbsp;&nbsp;
 <img src="./assets/card-languages.svg" width="46%" alt="Code &amp; Technology Distribution" />
 
+<br><br>
+
+<!-- Live Contribution Streak Stats -->
+<a href="https://github.com/sugan0025">
+  <img src="https://streak-stats.demolab.com/?user=sugan0025&background=0d1117&border=E28743&stroke=E28743&ring=E28743&fire=E28743&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=E28743&sideLabels=cccccc&dates=8b949e&hide_border=true&border_radius=10" alt="GitHub Streak Stats" />
+</a>
+
 </div>
 
 <!-- Animated Rainbow Divider -->
