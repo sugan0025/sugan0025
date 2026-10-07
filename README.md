@@ -18,15 +18,15 @@
 
 <!-- Row 1: Shipped Live Platforms & Tools -->
 <a href="https://the-rolling-oven.vercel.app">
-  <img src="https://img.shields.io/badge/🥐_Live_Platform-The_Rolling_Oven-E28743?style=for-the-badge&logoColor=white" alt="Live Demo" />
+  <img src="https://img.shields.io/badge/%F0%9F%A5%90_Live_Platform-The_Rolling_Oven-E28743?style=for-the-badge&logoColor=white" alt="Live Demo" />
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/sugan0025/one-smart-era">
-  <img src="https://img.shields.io/badge/🏛️_Platform-One_Smart_Era-10B981?style=for-the-badge&logoColor=white" alt="One Smart Era" />
+  <img src="https://img.shields.io/badge/%F0%9F%8F%9B%EF%B8%8F_Platform-One_Smart_Era-10B981?style=for-the-badge&logoColor=white" alt="One Smart Era" />
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/sugan0025/Sugan-s-ClaudeCounter">
-  <img src="https://img.shields.io/badge/🐱_AI_Telemetry-ClaudeCounter-38BDF8?style=for-the-badge&logoColor=white" alt="ClaudeCounter" />
+  <img src="https://img.shields.io/badge/%F0%9F%90%B1_AI_Telemetry-ClaudeCounter-38BDF8?style=for-the-badge&logoColor=white" alt="ClaudeCounter" />
 </a>
 
 <br><br>
@@ -45,7 +45,7 @@
 </div>
 
 <!-- Animated Rainbow Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4300-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://cdn.jsdelivr.net/gh/sugan0025/sugan0025@main/assets/rainbow-divider.svg" width="100%">
 
 <!-- ╔═══════════════════════════════╗ -->
 <!-- ║       ABOUT ME SECTION        ║ -->
@@ -82,7 +82,7 @@ Mission     : Bridging industrial operations, data analytics, and modern web eng
 <br clear="right"/>
 
 <!-- Animated Rainbow Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4300-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://cdn.jsdelivr.net/gh/sugan0025/sugan0025@main/assets/rainbow-divider.svg" width="100%">
 
 <!-- ╔═══════════════════════════════╗ -->
 <!-- ║     TECH STACK SECTION        ║ -->
@@ -131,7 +131,7 @@ Mission     : Bridging industrial operations, data analytics, and modern web eng
 </div>
 
 <!-- Animated Rainbow Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4300-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://cdn.jsdelivr.net/gh/sugan0025/sugan0025@main/assets/rainbow-divider.svg" width="100%">
 
 <h2><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="56" style="vertical-align: middle; margin-right: 4px;"> &nbsp;Flagship Projects &amp; Case Studies</h2>
 
@@ -139,39 +139,39 @@ Mission     : Bridging industrial operations, data analytics, and modern web eng
 
 <!-- Row 1: Rolling Oven + ClaudeCounter -->
 <a href="https://the-rolling-oven.vercel.app">
-  <img src="./assets/card-rolling-oven.svg" width="46%" alt="The Rolling Oven" />
+  <img src="https://cdn.jsdelivr.net/gh/sugan0025/sugan0025@main/assets/card-rolling-oven.svg" width="46%" alt="The Rolling Oven" />
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/sugan0025/Sugan-s-ClaudeCounter">
-  <img src="./assets/card-claudecounter.svg" width="46%" alt="Sugan's ClaudeCounter" />
+  <img src="https://cdn.jsdelivr.net/gh/sugan0025/sugan0025@main/assets/card-claudecounter.svg" width="46%" alt="Sugan's ClaudeCounter" />
 </a>
 
 <br><br>
 
 <!-- Row 2: One Smart Era + MBA Placement Hub -->
 <a href="https://github.com/sugan0025/one-smart-era">
-  <img src="./assets/card-one-smart-era.svg" width="46%" alt="One Smart Era" />
+  <img src="https://cdn.jsdelivr.net/gh/sugan0025/sugan0025@main/assets/card-one-smart-era.svg" width="46%" alt="One Smart Era" />
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/sugan0025">
-  <img src="./assets/card-placement-hub.svg" width="46%" alt="MBA Placement Hub" />
+  <img src="https://cdn.jsdelivr.net/gh/sugan0025/sugan0025@main/assets/card-placement-hub.svg" width="46%" alt="MBA Placement Hub" />
 </a>
 
 <br><br>
 
 <!-- Row 3: Roots RALP + Power BI Dashboard -->
 <a href="https://github.com/sugan0025">
-  <img src="./assets/card-roots-ralp.svg" width="46%" alt="Roots Industries RALP" />
+  <img src="https://cdn.jsdelivr.net/gh/sugan0025/sugan0025@main/assets/card-roots-ralp.svg" width="46%" alt="Roots Industries RALP" />
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/sugan0025">
-  <img src="./assets/card-power-bi.svg" width="46%" alt="Power BI Dashboard" />
+  <img src="https://cdn.jsdelivr.net/gh/sugan0025/sugan0025@main/assets/card-power-bi.svg" width="46%" alt="Power BI Dashboard" />
 </a>
 
 </div>
 
 <!-- Animated Rainbow Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4300-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://cdn.jsdelivr.net/gh/sugan0025/sugan0025@main/assets/rainbow-divider.svg" width="100%">
 
 <!-- ╔═══════════════════════════════╗ -->
 <!-- ║     HONORS & ACHIEVEMENTS     ║ -->
@@ -180,11 +180,11 @@ Mission     : Bridging industrial operations, data analytics, and modern web eng
 <h2><img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="36" style="vertical-align: middle;"> &nbsp;Key Milestones &amp; Honors</h2>
 
 <div align="center">
-  <img src="./assets/card-trophies.svg" width="95%" alt="Key Milestones &amp; Honors" />
+  <img src="https://cdn.jsdelivr.net/gh/sugan0025/sugan0025@main/assets/card-trophies.svg" width="95%" alt="Key Milestones &amp; Honors" />
 </div>
 
 <!-- Animated Rainbow Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4300-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://cdn.jsdelivr.net/gh/sugan0025/sugan0025@main/assets/rainbow-divider.svg" width="100%">
 
 <!-- ╔═══════════════════════════════╗ -->
 <!-- ║   GITHUB STATS & ANALYTICS    ║ -->
@@ -195,9 +195,9 @@ Mission     : Bridging industrial operations, data analytics, and modern web eng
 <div align="center">
 
 <!-- Row: Activity Stats + Code Distribution Glass Cards -->
-<img src="./assets/card-stats.svg" width="46%" alt="GitHub Activity &amp; Overview" />
+<img src="https://cdn.jsdelivr.net/gh/sugan0025/sugan0025@main/assets/card-stats.svg" width="46%" alt="GitHub Activity &amp; Overview" />
 &nbsp;&nbsp;
-<img src="./assets/card-languages.svg" width="46%" alt="Code &amp; Technology Distribution" />
+<img src="https://cdn.jsdelivr.net/gh/sugan0025/sugan0025@main/assets/card-languages.svg" width="46%" alt="Code &amp; Technology Distribution" />
 
 <br><br>
 
@@ -209,7 +209,7 @@ Mission     : Bridging industrial operations, data analytics, and modern web eng
 </div>
 
 <!-- Animated Rainbow Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4300-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://cdn.jsdelivr.net/gh/sugan0025/sugan0025@main/assets/rainbow-divider.svg" width="100%">
 
 <!-- ╔═══════════════════════════════╗ -->
 <!-- ║    SNAKE CONTRIBUTION GRAPH   ║ -->
@@ -220,9 +220,9 @@ Mission     : Bridging industrial operations, data analytics, and modern web eng
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sugan0025/sugan0025/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sugan0025/sugan0025/output/github-snake.svg" />
-  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/sugan0025/sugan0025/output/github-snake-dark.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sugan0025/sugan0025@output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sugan0025/sugan0025@output/github-snake.svg" />
+  <img alt="GitHub Contribution Snake Animation" src="https://cdn.jsdelivr.net/gh/sugan0025/sugan0025@output/github-snake-dark.svg" width="100%" />
 </picture>
 
 </div>
@@ -237,7 +237,7 @@ Mission     : Bridging industrial operations, data analytics, and modern web eng
 <div align="center">
 
 <!-- Custom Frosted Elon Musk Quote Card -->
-<img src="./assets/card-elon-quote.svg" width="95%" alt="Elon Musk Quote" />
+<img src="https://cdn.jsdelivr.net/gh/sugan0025/sugan0025@main/assets/card-elon-quote.svg" width="95%" alt="Elon Musk Quote" />
 
 <br><br>
 
