@@ -1,250 +1,193 @@
 <!-- ═══════════════════════════════════════════════════════════════════════════════════ -->
-<!-- ░░░  SUGAN0025 — PREMIUM ANIMATED GITHUB PROFILE  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+<!-- ░░░  SUGANESAN S (sugan0025) — BUSINESS ANALYST & FULL-STACK ENGINEER  ░░░░░░░░░░░░ -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════════ -->
 
-<!-- ╔═══════════════════════════════╗ -->
-<!-- ║   ANIMATED GRADIENT HEADER    ║ -->
-<!-- ╚═══════════════════════════════╝ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:E28743,100:1a1b27&height=220&section=header&text=Suganesan%20S&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Business%20Analytics%20%7C%20Growth%20Engineering%20%7C%20Data%20Intelligence&descAlignY=55&descSize=18&descColor=cccccc"/>
-
 <div align="center">
 
-<!-- Animated Typing SVG (Full Width, Zero Cutoff) -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1200&color=E28743&center=true&vCenter=true&repeat=true&width=800&height=50&lines=MBA+Placement+Coordinator+%40+BIT+Sathy+%7C+2025-2027;Business+Analyst+%E2%80%A2+Power+BI+%E2%80%A2+Python+%E2%80%A2+Excel;Full-Stack+Engineer+%E2%80%A2+Next.js+16+%E2%80%A2+Flutter+3+%E2%80%A2+Supabase;Industrial+Process+Analytics+%40+Roots+Industries" alt="Typing SVG" />
-</a>
+  <h1>⚡ Suganesan S (Sugan)</h1>
+  <p><b>Business Analytics • Growth Engineering • High-Concurrency Platforms • Data Intelligence</b></p>
+  <p>🎓 <b>MBA in Business Analytics &amp; Marketing</b> | Bannari Amman Institute of Technology (BIT Sathy)</p>
 
-<br><br>
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1200&color=E28743&center=true&vCenter=true&repeat=true&width=800&height=45&lines=MBA+Placement+Coordinator+%40+BIT+Sathy+%7C+2025-2027;Business+Analyst+%E2%80%A2+Power+BI+%E2%80%A2+Python+%E2%80%A2+Advanced+Excel;Full-Stack+Engineer+%E2%80%A2+Next.js+16+%E2%80%A2+Flask+%E2%80%A2+PostgreSQL;Industrial+Process+Analytics+%40+Roots+Industries" alt="Suganesan S - Focus Areas" />
+  </a>
 
-<!-- Row 1: Shipped Live Platforms & Tools -->
-<a href="https://the-rolling-oven.vercel.app">
-  <img src="https://img.shields.io/badge/%F0%9F%A5%90_Live_Platform-The_Rolling_Oven-E28743?style=for-the-badge&logoColor=white" alt="Live Demo" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/sugan0025/one-smart-era">
-  <img src="https://img.shields.io/badge/%F0%9F%8F%9B%EF%B8%8F_Platform-One_Smart_Era-10B981?style=for-the-badge&logoColor=white" alt="One Smart Era" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/sugan0025/Sugan-s-ClaudeCounter">
-  <img src="https://img.shields.io/badge/%F0%9F%90%B1_AI_Telemetry-ClaudeCounter-38BDF8?style=for-the-badge&logoColor=white" alt="ClaudeCounter" />
-</a>
+  <br/><br/>
 
-<br><br>
+  <!-- Quick Action Live Platform Badges -->
+  <a href="https://faculty-selection-bitsathy.vercel.app">
+    <img src="https://img.shields.io/badge/%E2%9A%A1_Live_Platform-Faculty_Selection-38BDF8?style=for-the-badge&logoColor=white" alt="Faculty Selection Platform" />
+  </a>
+  &nbsp;
+  <a href="https://the-rolling-oven.vercel.app">
+    <img src="https://img.shields.io/badge/%F0%9F%A5%90_Live_Platform-The_Rolling_Oven-E28743?style=for-the-badge&logoColor=white" alt="The Rolling Oven" />
+  </a>
+  &nbsp;
+  <a href="https://the-brownie-hub.vercel.app">
+    <img src="https://img.shields.io/badge/%F0%9F%8D%AB_Live_Store-The_Brownie_Hub-FFB347?style=for-the-badge&logoColor=white" alt="The Brownie Hub" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/sugan0025/one-smart-era">
+    <img src="https://img.shields.io/badge/%F0%9F%8F%9B%EF%B8%8F_Mobile_App-One_Smart_Era-10B981?style=for-the-badge&logoColor=white" alt="One Smart Era" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/sugan0025/Sugan-s-ClaudeCounter">
+    <img src="https://img.shields.io/badge/%F0%9F%90%B1_AI_Telemetry-ClaudeCounter-8957e5?style=for-the-badge&logoColor=white" alt="ClaudeCounter" />
+  </a>
 
-<!-- Row 2: Socials & Analytics -->
-<a href="https://github.com/sugan0025">
-  <img src="https://img.shields.io/badge/GitHub-sugan0025-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-&nbsp;&nbsp;
-<a href="https://linkedin.com/in/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-&nbsp;&nbsp;
-<img src="https://komarev.com/ghpvc/?username=sugan0025&style=for-the-badge&color=E28743&label=PROFILE+VIEWS" alt="Profile Views" />
+  <br/><br/>
+
+  <a href="https://github.com/sugan0025">
+    <img src="https://img.shields.io/badge/GitHub-sugan0025-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:suganesan@example.com">
+    <img src="https://img.shields.io/badge/Email-Get_in_Touch-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 
 </div>
 
-<!-- Animated Rainbow Divider -->
-<img src="https://cdn.jsdelivr.net/gh/sugan0025/sugan0025@main/assets/rainbow-divider.svg" width="100%">
+<br/>
 
-<!-- ╔═══════════════════════════════╗ -->
-<!-- ║       ABOUT ME SECTION        ║ -->
-<!-- ╚═══════════════════════════════╝ -->
+<img src="https://cdn.jsdelivr.net/gh/sugan0025/sugan0025@main/assets/rainbow-divider.svg" width="100%" alt="Section Divider" />
 
-<h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="36" style="vertical-align: middle;"> &nbsp;About Me</h2>
+## 📌 Executive Profile
 
 ```yaml
-Name        : Suganesan S (Sugan)
-Location    : Coimbatore, Tamil Nadu, India
-Education   :
-  Current   : MBA in Business Analytics & Marketing | BIT Sathy
-  Prior     : B.Com in Accounting & Finance
-Leadership  :
+Name           : Suganesan S (Sugan)
+Location       : Coimbatore / Sathyamangalam, Tamil Nadu, India
+Education      :
+  Current      : MBA in Business Analytics & Marketing | BIT Sathy (2025–2027)
+  Prior        : B.Com in Accounting & Finance
+Key Roles      :
   - MBA Placement Coordinator (2025–2027 Batch)
   - MANFEST 2026 Co-Coordinator
-Mission     : Bridging industrial operations, data analytics, and modern web engineering.
+Core Focus     : High-concurrency system architecture, industrial process optimization, and data-driven growth.
 ```
 
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWd1ZnNyZGZ4MGhiOHJxdWdsdjB4a2U1OHk2OWN4ajhkY3loN2JxMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="270" alt="Coding animation"/>
+- 🎓 **MBA Placement Coordinator** — Architected the MBA Student Placement Master System and GD Analytics Dashboard tracking recruitment pipelines, performance metrics, and batch skill distribution.
+- ⚡ **High-Concurrency Systems Architect** — Built & deployed the **[Faculty Guide Selection Platform](https://faculty-selection-bitsathy.vercel.app)** for BIT Sathy MBA: sub-250ms latency, zero race conditions via PostgreSQL row locks, and automated Google Sheets sync.
+- 🥐 **D2C Commerce & Growth Engineer** — Built & deployed **[The Rolling Oven](https://the-rolling-oven.vercel.app)** and **[The Brownie Hub](https://the-brownie-hub.vercel.app)** with sub-900ms static generation, 3D particles, and GA4 telemetry.
+- 🏛️ **Civic & Agro Platform Architect** — Developed **[One Smart Era](https://github.com/sugan0025/one-smart-era)**, a 3-in-1 Flutter smart governance and agro-advisory engine with AI plant pathology and APMC live price feeds.
+- 🏭 **Industrial Ops @ Roots Industries** — Engineered time-and-motion studies and workforce training dashboards for the horn assembly division.
 
-- 🎓 **MBA Placement Coordinator** — Built the Student Placement Master System & GD Analytics Dashboard tracking batch performance across recruitment pipelines.
+<br/>
 
-- 🐱 **AI Tooling & Telemetry Architect** — Built & deployed **[Sugan's ClaudeCounter](https://github.com/sugan0025/Sugan-s-ClaudeCounter)** — a real-time token & rate-limit telemetry HUD for Claude.ai with pure frosted liquid glass, interactive typing cat, and full session reasoning/artifact exporter.
+<img src="https://cdn.jsdelivr.net/gh/sugan0025/sugan0025@main/assets/rainbow-divider.svg" width="100%" alt="Section Divider" />
 
-- 🥐 **D2C Commerce Architect** — Built & deployed **[The Rolling Oven](https://the-rolling-oven.vercel.app)** — a full-stack D2C bakery platform with <900ms SSG, GA4 telemetry, and server-side price validation.
-
-- 🏛️ **Smart City & Agro Platform Engineer** — Built & deployed **[One Smart Era](https://github.com/sugan0025/one-smart-era)** — a 3-in-1 Flutter civic grievance & Kisan assistance platform with AI plant pathology, APMC price waves, and SLA triage.
-
-- 🏭 **Industrial Ops @ Roots Industries** — Engineered automated time-and-motion studies and multi-phase employee training trackers for the Horn Division.
-
-- 📊 **BI Dashboard Engineer** — Designed multi-page Power BI retail sales dashboards with DAX measures for cohort retention and revenue analytics.
-
-<br clear="right"/>
-
-<!-- Animated Rainbow Divider -->
-<img src="https://cdn.jsdelivr.net/gh/sugan0025/sugan0025@main/assets/rainbow-divider.svg" width="100%">
-
-<!-- ╔═══════════════════════════════╗ -->
-<!-- ║     TECH STACK SECTION        ║ -->
-<!-- ╚═══════════════════════════════╝ -->
-
-<h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="36" style="vertical-align: middle;"> &nbsp;Shipped Tech &amp; Analytics Stack</h2>
+## 🚀 Flagship Projects & Case Studies
 
 <div align="center">
 
-<!-- Row 1: Analytics & BI -->
-<h4>📊 Business Analytics &amp; Intelligence</h4>
-<a href="#"><img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Google_Analytics_4-E37400?style=for-the-badge&logo=google-analytics&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Advanced_Excel_&_VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/DAX_Measures-FF6F00?style=for-the-badge&logo=powerbi&logoColor=white" /></a>
+  <!-- Row 1: Faculty Selection + The Rolling Oven -->
+  <a href="https://faculty-selection-bitsathy.vercel.app">
+    <img src="https://cdn.jsdelivr.net/gh/sugan0025/sugan0025@main/assets/card-faculty-selection.svg" width="48%" alt="Faculty Guide Selection Platform" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://the-rolling-oven.vercel.app">
+    <img src="https://cdn.jsdelivr.net/gh/sugan0025/sugan0025@main/assets/card-rolling-oven.svg" width="48%" alt="The Rolling Oven" />
+  </a>
 
-<!-- Row 2: Web & Mobile Dev -->
-<h4>⚡ Full-Stack Web &amp; Mobile Development</h4>
+  <br/><br/>
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,nextjs,react,ts,tailwind,supabase,html,css,vite&theme=dark" />
-</a>
+  <!-- Row 2: ClaudeCounter + One Smart Era -->
+  <a href="https://github.com/sugan0025/Sugan-s-ClaudeCounter">
+    <img src="https://cdn.jsdelivr.net/gh/sugan0025/sugan0025@main/assets/card-claudecounter.svg" width="48%" alt="Sugan's ClaudeCounter" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/sugan0025/one-smart-era">
+    <img src="https://cdn.jsdelivr.net/gh/sugan0025/sugan0025@main/assets/card-one-smart-era.svg" width="48%" alt="One Smart Era" />
+  </a>
 
-<br><br>
+  <br/><br/>
 
-<a href="#"><img src="https://img.shields.io/badge/Flutter_3-02569B?style=for-the-badge&logo=flutter&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Zod_Validation-3E67B1?style=for-the-badge&logo=zod&logoColor=white" /></a>
-
-<!-- Row 3: Tools & Ops -->
-<h4>🛠️ Tools, Operations &amp; Process</h4>
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,linux&theme=dark" />
-</a>
-
-<br><br>
-
-<a href="#"><img src="https://img.shields.io/badge/Time_&_Motion_Studies-4A154B?style=for-the-badge&logo=clockify&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/openpyxl-2E7D32?style=for-the-badge&logo=python&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Assembly_Layout_Planning-FF5722?style=for-the-badge&logo=blueprint&logoColor=white" /></a>
+  <!-- Row 3: MBA Placement Hub + Power BI Dashboard -->
+  <a href="https://github.com/sugan0025">
+    <img src="https://cdn.jsdelivr.net/gh/sugan0025/sugan0025@main/assets/card-placement-hub.svg" width="48%" alt="MBA Placement Hub" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/sugan0025">
+    <img src="https://cdn.jsdelivr.net/gh/sugan0025/sugan0025@main/assets/card-power-bi.svg" width="48%" alt="Power BI Retail Analytics" />
+  </a>
 
 </div>
 
-<!-- Animated Rainbow Divider -->
-<img src="https://cdn.jsdelivr.net/gh/sugan0025/sugan0025@main/assets/rainbow-divider.svg" width="100%">
+<br/>
 
-<h2><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="56" style="vertical-align: middle; margin-right: 4px;"> &nbsp;Flagship Projects &amp; Case Studies</h2>
+### 📋 Deep-Dive Portfolio Summary
 
-<div align="center">
+| Project | Domain | Architecture & Highlights | Live Demo |
+|---|---|---|---|
+| **Faculty Selection** | Concurrency / EdTech | Python 3.12, Flask, PostgreSQL (`SELECT FOR UPDATE`), Google OAuth, Google Sheets API v4 | [Live Link](https://faculty-selection-bitsathy.vercel.app) |
+| **The Rolling Oven** | D2C E-Commerce | Next.js 16 App Router, TypeScript, Supabase, GA4 Telemetry, Sub-900ms SSG | [Live Link](https://the-rolling-oven.vercel.app) |
+| **The Brownie Hub** | Experiential D2C | Next.js 16, Three.js 3D Particle Canvas, Keepsake Box Builder, Workshop Engine | [Live Link](https://the-brownie-hub.vercel.app) |
+| **One Smart Era** | Civic Tech & Agri | Flutter 3, Dart, Firebase, APMC Price Trends, Plant Pathology Vision API | [Source Code](https://github.com/sugan0025/one-smart-era) |
+| **ClaudeCounter** | AI HUD / Telemetry | Chrome Extension, Pure CSS Liquid Glass, Live Token Consumption HUD | [Source Code](https://github.com/sugan0025/Sugan-s-ClaudeCounter) |
+| **Roots RALP** | Industrial Engineering | Time-and-Motion Study Model, Horn Assembly Line Balancing, Excel VBA | [Portfolio](#-executive-profile) |
 
-<!-- Row 1: Rolling Oven + ClaudeCounter -->
-<a href="https://the-rolling-oven.vercel.app">
-  <img src="https://cdn.jsdelivr.net/gh/sugan0025/sugan0025@main/assets/card-rolling-oven.svg" width="46%" alt="The Rolling Oven" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/sugan0025/Sugan-s-ClaudeCounter">
-  <img src="https://cdn.jsdelivr.net/gh/sugan0025/sugan0025@main/assets/card-claudecounter.svg" width="46%" alt="Sugan's ClaudeCounter" />
-</a>
+<br/>
 
-<br><br>
+<img src="https://cdn.jsdelivr.net/gh/sugan0025/sugan0025@main/assets/rainbow-divider.svg" width="100%" alt="Section Divider" />
 
-<!-- Row 2: One Smart Era + MBA Placement Hub -->
-<a href="https://github.com/sugan0025/one-smart-era">
-  <img src="https://cdn.jsdelivr.net/gh/sugan0025/sugan0025@main/assets/card-one-smart-era.svg" width="46%" alt="One Smart Era" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/sugan0025">
-  <img src="https://cdn.jsdelivr.net/gh/sugan0025/sugan0025@main/assets/card-placement-hub.svg" width="46%" alt="MBA Placement Hub" />
-</a>
+## 🛠️ Technology & Analytics Stack
 
-<br><br>
+### 📊 Business Analytics & Intelligence
+| Competency | Tools & Technologies | Focus |
+|---|---|---|
+| **Data Visualization** | `Power BI` • `DAX Measures` • `Tableau` | Executive dashboards, cohort retention, KPIs |
+| **Data Engineering** | `Python (Pandas, NumPy, openpyxl)` • `SQL` | Automated data cleaning, transformation, ETL |
+| **Web Analytics** | `Google Analytics 4 (GA4)` • `Google Tag Manager` | Funnel drop-off, conversion tracking, e-commerce CRO |
+| **Business Modeling** | `Advanced Excel` • `VBA & Macros` • `Financial Modeling` | Time-and-motion studies, forecasting, automation |
 
-<!-- Row 3: Roots RALP + Power BI Dashboard -->
-<a href="https://github.com/sugan0025">
-  <img src="https://cdn.jsdelivr.net/gh/sugan0025/sugan0025@main/assets/card-roots-ralp.svg" width="46%" alt="Roots Industries RALP" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/sugan0025">
-  <img src="https://cdn.jsdelivr.net/gh/sugan0025/sugan0025@main/assets/card-power-bi.svg" width="46%" alt="Power BI Dashboard" />
-</a>
+### ⚡ Full-Stack Web & Mobile Development
+| Layer | Tech Stack |
+|---|---|
+| **Frontend Frameworks** | Next.js 16 (App Router), React 19, TypeScript, Vanilla JavaScript |
+| **Mobile Development** | Flutter 3, Dart, Material 3, Cross-Platform Architecture |
+| **Styling & 3D** | Tailwind CSS, Zero-Framework CSS (Tokens), Three.js (WebGL), GSAP |
+| **Backend & Cloud** | Python Flask, FastAPI, Supabase, PostgreSQL (Neon), Firebase, Vercel Serverless |
+| **Integrations & Security** | Google Identity (OAuth 2.0 JWT), Google Sheets API v4, Zod Validation, REST APIs |
 
-</div>
+<br/>
 
-<!-- Animated Rainbow Divider -->
-<img src="https://cdn.jsdelivr.net/gh/sugan0025/sugan0025@main/assets/rainbow-divider.svg" width="100%">
+<img src="https://cdn.jsdelivr.net/gh/sugan0025/sugan0025@main/assets/rainbow-divider.svg" width="100%" alt="Section Divider" />
 
-<!-- ╔═══════════════════════════════╗ -->
-<!-- ║     HONORS & ACHIEVEMENTS     ║ -->
-<!-- ╚═══════════════════════════════╝ -->
-
-<h2><img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="36" style="vertical-align: middle;"> &nbsp;Key Milestones &amp; Honors</h2>
+## 🏆 Key Milestones & Honors
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/sugan0025/sugan0025@main/assets/card-trophies.svg" width="95%" alt="Key Milestones &amp; Honors" />
 </div>
 
-<!-- Animated Rainbow Divider -->
-<img src="https://cdn.jsdelivr.net/gh/sugan0025/sugan0025@main/assets/rainbow-divider.svg" width="100%">
+- 🥇 **MBA Placement Coordinator (2025–2027)** — Leading corporate engagement, student readiness drives, and recruitment analytics for the MBA department.
+- 🎯 **MANFEST 2026 Co-Coordinator** — Organizing the flagship national-level management fest at BIT Sathy.
+- 📈 **Roots Industries Operational Excellence** — Developed automated cycle-time analysis and training tracking matrices for the horn assembly line.
+- 🚀 **5 Production Web Applications Shipped** — Deployed real-world systems handling real users, live payments, and automated cloud sync.
 
-<!-- ╔═══════════════════════════════╗ -->
-<!-- ║   GITHUB STATS & ANALYTICS    ║ -->
-<!-- ╚═══════════════════════════════╝ -->
+<br/>
 
-<h2><img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ris/giphy.gif" width="36" style="vertical-align: middle;"> &nbsp;GitHub Analytics &amp; Technology Distribution</h2>
+<img src="https://cdn.jsdelivr.net/gh/sugan0025/sugan0025@main/assets/rainbow-divider.svg" width="100%" alt="Section Divider" />
 
-<div align="center">
-
-<!-- Row: Activity Stats + Code Distribution Glass Cards -->
-<img src="https://cdn.jsdelivr.net/gh/sugan0025/sugan0025@main/assets/card-stats.svg" width="46%" alt="GitHub Activity &amp; Overview" />
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/sugan0025/sugan0025@main/assets/card-languages.svg" width="46%" alt="Code &amp; Technology Distribution" />
-
-<br><br>
-
-<!-- Live Contribution Streak Stats -->
-<a href="https://github.com/sugan0025">
-  <img src="https://streak-stats.demolab.com/?user=sugan0025&background=0d1117&border=E28743&stroke=E28743&ring=E28743&fire=E28743&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=E28743&sideLabels=cccccc&dates=8b949e&hide_border=true&border_radius=10" alt="GitHub Streak Stats" />
-</a>
-
-</div>
-
-<!-- Animated Rainbow Divider -->
-<img src="https://cdn.jsdelivr.net/gh/sugan0025/sugan0025@main/assets/rainbow-divider.svg" width="100%">
-
-<!-- ╔═══════════════════════════════╗ -->
-<!-- ║    SNAKE CONTRIBUTION GRAPH   ║ -->
-<!-- ╚═══════════════════════════════╝ -->
-
-<h2><img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="36" style="vertical-align: middle;"> &nbsp;Contribution Snake Arena</h2>
+## 💬 Get in Touch
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sugan0025/sugan0025@output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sugan0025/sugan0025@output/github-snake.svg" />
-  <img alt="GitHub Contribution Snake Animation" src="https://cdn.jsdelivr.net/gh/sugan0025/sugan0025@output/github-snake-dark.svg" width="100%" />
-</picture>
+  <img src="https://cdn.jsdelivr.net/gh/sugan0025/sugan0025@main/assets/card-elon-quote.svg" width="95%" alt="Quote" />
 
-</div>
+  <br/><br/>
 
+  <b>💼 Open for Business Analyst roles, Growth Engineering consulting, and Analytics collaborations.</b>
 
-<br>
+  <br/><br/>
 
-<!-- ╔═══════════════════════════════╗ -->
-<!-- ║      ANIMATED FOOTER          ║ -->
-<!-- ╚═══════════════════════════════╝ -->
-
-<div align="center">
-
-<!-- Custom Frosted Elon Musk Quote Card -->
-<img src="https://cdn.jsdelivr.net/gh/sugan0025/sugan0025@main/assets/card-elon-quote.svg" width="95%" alt="Elon Musk Quote" />
-
-<br><br>
-
-<b>💼 Open for Business Analyst roles, Growth Engineering consulting, and Analytics collaborations.</b>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:E28743,100:1a1b27&height=120&section=footer&animation=fadeIn"/>
+  <p>
+    <a href="https://linkedin.com/in/"><b>LinkedIn</b></a> •
+    <a href="https://github.com/sugan0025"><b>GitHub</b></a> •
+    <a href="https://the-rolling-oven.vercel.app"><b>The Rolling Oven</b></a> •
+    <a href="https://faculty-selection-bitsathy.vercel.app"><b>Faculty Selection Platform</b></a>
+  </p>
 
 </div>
